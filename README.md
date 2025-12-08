@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # 👋 Hi, I'm Matheus.
@@ -34,7 +35,7 @@ I document every step of my evolution from "Zero" to "Engineer in Ireland" here:
 <br>
 <br>
 
-"
+<!-- STATS (descomente se quiser mostrar) 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=matzxcss&theme=gotham&hide_border=true" alt="GitHub Streak" />
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=matzxcss&show_icons=true&theme=gotham&hide_border=true&count_private=true" alt="Matheus Stats" />
