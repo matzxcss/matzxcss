@@ -8,7 +8,7 @@
 
 ---
 
-![Anime GIF](./johan-liebert-nameless-monster.gif)
+<img src="https://raw.githubusercontent.com/matzxcss/matzxcss/main/johan-liebert-nameless-monster.gif" width="600" alt="Johan Liebert"/>
 
 <br>
 <br>
