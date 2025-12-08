@@ -8,7 +8,7 @@
 
 ---
 
-![Anime GIF](https://media.tenor.com/k1kXQ8Up5tWAAAAC/monster-anime.gif)
+![Anime GIF](./assets/anime.gif
 
 <br>
 <br>
