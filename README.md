@@ -8,7 +8,7 @@
 
 ---
 
-<img src="https://media.tenor.com/k1kXQ8Up5tWAAAAC/monster-anime.gif" width="100%" style="max-width: 600px; border-radius: 10px;"/>
+<img src="https://media.tenor.com/k1kXQ8Up5tWAAAAC/monster-anime.gif" width="600" alt="Anime GIF"/>
 
 <br>
 <br>
