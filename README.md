@@ -7,7 +7,9 @@
 
 ---
 
-<img src="./johan-liebert.gif" width="600" alt="Johan Liebert"/>
+
+<img src="https://github.com/matzxcss/matzxcss/raw/main/johan.gif" width="600" alt="Johan Liebert"/>
+
 <br>
 <br>
 
