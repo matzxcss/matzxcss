@@ -8,7 +8,7 @@
 
 ---
 
-![Anime GIF](./assets/anime.gif
+![Anime GIF](./johan-liebert-nameless-monster.gif)
 
 <br>
 <br>
