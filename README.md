@@ -7,8 +7,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/matzxcss/matzxcss/main/johan-liebert-nameless-monster(1).gif" width="600" alt="Johan Liebert"/>
-
+<img src="./johan-liebert.gif" width="600" alt="Johan Liebert"/>
 <br>
 <br>
 
