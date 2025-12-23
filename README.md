@@ -1,41 +1,114 @@
+<!--
+╔══════════════════════════════════════════════════════════════╗
+║  NEURAL NETWORK INITIALIZED :: PYTHON ARCHITECT ONLINE      ║
+║  DESTINATION: CORK, IRELAND :: STATUS: INEVITABLE           ║
+╚══════════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
 
-# 👋 Hi, I'm Matheus.
-
-### Software Student | Strategy | Audio & Design
-*Building the path to Cork, Ireland 🇮🇪*
-
----
-
+```
+    ███╗   ███╗ █████╗ ████████╗██╗  ██╗███████╗██╗   ██╗███████╗
+    ████╗ ████║██╔══██╗╚══██╔══╝██║  ██║██╔════╝██║   ██║██╔════╝
+    ██╔████╔██║███████║   ██║   ███████║█████╗  ██║   ██║███████╗
+    ██║╚██╔╝██║██╔══██║   ██║   ██╔══██║██╔══╝  ██║   ██║╚════██║
+    ██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║███████╗╚██████╔╝███████║
+    ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚══════╝
+    
+    System Architect :: Python Specialist :: Logic Engineer
+```
 
 <img src="https://github.com/matzxcss/matzxcss/raw/main/johan.gif" width="600" alt="Johan Liebert"/>
 
-<br>
-<br>
+</div>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"/> **Current Focus:** Crushing Python Logic & Algorithms.
+---
 
-<br>
+## ⬙ SYSTEM IDENTIFICATION
 
-| 🧠 **The Mindset** | 🛠️ **The Stack** | 🎨 **The Side Hustle** |
-| :--- | :--- | :--- |
-| **First Principles** Thinker | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> | **Beatmaker** (Trap/Jazz) |
-| **FATEC** Student | <img src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white"/> | **Visual Design** Enthusiast |
-| **MTU** Future Student | <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/> | **Aesthetics** & Aura |
+```python
+class Architect:
+    def __init__(self):
+        self.name = "Matheus"
+        self.role = "Python Logic Engineer"
+        self.location_current = "Brazil :: FATEC"
+        self.location_target = "Cork, Ireland :: MTU"
+        self.philosophy = "Logic is the anatomy of thought."
+        self.status = "BUILDING"
+        
+    def primary_weapons(self):
+        return {
+            "core": "Python",
+            "tools": ["Git", "VS Code", "Algorithmic Thinking"],
+            "method": "First Principles"
+        }
+    
+    def execute_mission(self):
+        while self.location_current != self.location_target:
+            self.study()
+            self.build()
+            self.document()
+        return "Mission Cork: COMPLETE"
+```
 
-<br>
+---
 
-### 🚀 **Follow My Journey**
-I document every step of my evolution from "Zero" to "Engineer in Ireland" here:
+## ∅ OPERATIONAL DIRECTIVES
+
+> **Logic precedes emotion.**  
+> **Strategy compounds daily.**  
+> **The path to Ireland is paved with Python.**
+
+<div align="center">
+
+| 🧠 **MENTAL FRAMEWORK** | 🐍 **TECHNICAL ARSENAL** | 🎨 **PARALLEL OPERATIONS** |
+|:---|:---|:---|
+| First Principles Thinking | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Beatmaker (Trap/Jazz) |
+| Systems Architecture | ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white) | Visual Design |
+| Strategic Execution | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) | Aesthetic Systems |
+
+</div>
+
+---
+
+## ⨯ MISSION PROTOCOL: IRELAND
+
+```diff
++ [PHASE 1] Python Logic & Algorithms :: IN PROGRESS
++ [PHASE 2] Data Structures & Advanced Python :: QUEUED
++ [PHASE 3] Portfolio & Projects :: QUEUED
+! [OBJECTIVE] MTU Cork, Ireland :: 2026
+! [STATUS] Every commit is one step closer
+```
+
+<div align="center">
+
+### 🚀 **MISSION DOCUMENTATION**
 
 <a href="https://github.com/matzxcss/python-logic-challenges-basics">
-  <img src="https://img.shields.io/badge/REPO-PYTHON_LOGIC_CHALLENGES-success?style=for-the-badge&logo=github" alt="Protocol Ireland Repo"/>
+  <img src="https://img.shields.io/badge/⬙_PYTHON_LOGIC_PROTOCOLS-ACTIVE-00FF00?style=for-the-badge&logo=github&logoColor=white" alt="Python Logic Repo"/>
 </a>
 
-<br>
-<br>
+**Documentation of the path from Zero to Irish Engineer**  
+*Every algorithm solved. Every concept mastered. Every step documented.*
 
-<!-- STATS (descomente se quiser mostrar) 
+</div>
+
+---
+
+## ⬡ SYSTEM METRICS
+
+<div align="center">
+
+```
+[████████████████░░░░] JOURNEY TO CORK: 80%
+```
+
+**CURRENT OPERATION:** Mastering Python's logical foundations  
+**NEXT MILESTONE:** Advanced algorithms & data structures  
+**FINAL DESTINATION:** Software Engineer @ Ireland
+
+<!-- STATS BLOCK - Uncomment quando quiser ativar
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=matzxcss&theme=gotham&hide_border=true" alt="GitHub Streak" />
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=matzxcss&show_icons=true&theme=gotham&hide_border=true&count_private=true" alt="Matheus Stats" />
@@ -43,14 +116,52 @@ I document every step of my evolution from "Zero" to "Engineer in Ireland" here:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matzxcss&layout=compact&theme=gotham&hide_border=true" alt="Top Langs" />
 -->
 
-<br>
+</div>
 
-*"Logic is the anatomy of thought."*
+---
 
-<br>
+## ⬙ PHILOSOPHICAL CORE
+
+<div align="center">
+
+```python
+def life_philosophy():
+    principles = [
+        "Logic is the anatomy of thought.",
+        "Strategy is intelligence applied over time.",
+        "Every algorithm solved is a battle won.",
+        "The architect builds in silence, ships with impact."
+    ]
+    return principles
+```
+
+</div>
+
+---
+
+## ∅ TRANSMISSION CHANNELS
+
+<div align="center">
 
 <a href="https://monocard.me/matheuslacerda">
-  <img src="https://img.shields.io/badge/Linktree-Connect-green?style=for-the-badge&logo=linktree" alt="Monocard"/>
+  <img src="https://img.shields.io/badge/⬙_CONNECT_PROTOCOL-ACTIVE-00FF00?style=for-the-badge&logo=linktree&logoColor=white" alt="Monocard"/>
 </a>
 
+```
+╔═══════════════════════════════════════════════════════════╗
+║  "The distance between Brazil and Ireland is measured     ║
+║   not in kilometers, but in lines of code."               ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+**⬙ MISSION STATUS: INEVITABLE ⬙**
+
+</div>
+
+<!--
+    Sistema operacional: Ativo
+    Destino: Cork, Ireland
+    Método: Python + Disciplina + Estratégia
+    Resultado: Garantido
+-->
 </div>
