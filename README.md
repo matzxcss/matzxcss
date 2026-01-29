@@ -1,11 +1,10 @@
-```
-<!--
-╔══════════════════════════════════════════════════════════════╗
-║  NEURAL NETWORK INITIALIZED :: PYTHON ARCHITECT ONLINE       ║
-║  DESTINATION: CORK, IRELAND :: STATUS: INEVITABLE            ║
-╚══════════════════════════════════════════════════════════════╝
--->
-````
+<div align="center">
+
+> ╔══════════════════════════════════════════════════════════════╗
+> ║     NEURAL NETWORK INITIALIZED :: PYTHON ARCHITECT ONLINE    ║
+> ║       DESTINATION: CORK, IRELAND :: STATUS: INEVITABLE       ║
+> ╚══════════════════════════════════════════════════════════════╝
+
 
 <div align="center">
 
