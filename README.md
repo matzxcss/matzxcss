@@ -1,9 +1,11 @@
+```
 <!--
 ╔══════════════════════════════════════════════════════════════╗
-║  NEURAL NETWORK INITIALIZED :: PYTHON ARCHITECT ONLINE      ║
-║  DESTINATION: CORK, IRELAND :: STATUS: INEVITABLE           ║
+║  NEURAL NETWORK INITIALIZED :: PYTHON ARCHITECT ONLINE       ║
+║  DESTINATION: CORK, IRELAND :: STATUS: INEVITABLE            ║
 ╚══════════════════════════════════════════════════════════════╝
 -->
+````
 
 <div align="center">
 
@@ -18,7 +20,13 @@
     System Architect :: Python Specialist :: Logic Engineer
 ```
 
-<img src="https://github.com/matzxcss/matzxcss/raw/main/johan.gif" width="600" alt="Johan Liebert"/>
+<img src="https://github.com/matzxcss/matzxcss/raw/main/johan.gif" width="450" alt="Johan Liebert"/>
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=matzxcss&theme=gotham&hide_border=true" alt="GitHub Streak" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=matzxcss&show_icons=true&theme=gotham&hide_border=true&count_private=true" alt="Matheus Stats" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matzxcss&layout=compact&theme=gotham&hide_border=true" alt="Top Langs" />
 
 </div>
 
@@ -34,22 +42,38 @@ class Architect:
         self.location_current = "Brazil :: FATEC"
         self.location_target = "Cork, Ireland :: MTU"
         self.philosophy = "Logic is the anatomy of thought."
-        self.status = "BUILDING"
+        self.status = "INITIALIZING"
         
     def primary_weapons(self):
         return {
             "core": "Python",
             "tools": ["Git", "VS Code", "Algorithmic Thinking"],
-            "method": "First Principles"
+            "method": "First Principles",
+            "approach": "Mastery through deliberate practice"
         }
     
     def execute_mission(self):
         while self.location_current != self.location_target:
-            self.study()
-            self.build()
-            self.document()
-        return "Mission Cork: COMPLETE"
+            self.master_logic()
+            self.build_systems()
+            self.document_perfection()
+        return "Mission Cork: INEVITABLE"
 ```
+
+---
+
+## ∅ RECRUTADOR PROOF-OF-CONCEPT
+
+<div align="center">
+
+| Status                 | Evidence                           |
+|------------------------|------------------------------------|
+| **Logic Foundations** | Daily algorithm training           |
+| **Python Architecture**| Clean, documented solutions        |
+| **System Thinking**    | First Principles → Scalable code   |
+| **Ireland Trajectory**| Every commit = calculated step     |
+
+</div>
 
 ---
 
@@ -74,23 +98,23 @@ class Architect:
 ## ⨯ MISSION PROTOCOL: IRELAND
 
 ```diff
-+ [PHASE 1] Python Logic & Algorithms :: IN PROGRESS
-+ [PHASE 2] Data Structures & Advanced Python :: QUEUED
-+ [PHASE 3] Portfolio & Projects :: QUEUED
++ [PHASE 1] Python Logic Foundations :: ACTIVE
++ [PHASE 2] Data Structures Mastery  :: MAPPING
++ [PHASE 3] Production Architecture  :: ARCHITECTING
 ! [OBJECTIVE] MTU Cork, Ireland :: 2026
-! [STATUS] Every commit is one step closer
+! [STATUS] Building the inevitable path
 ```
 
 <div align="center">
 
-### 🚀 **MISSION DOCUMENTATION**
+### 🚀 **LIVE MISSION LOG**
 
 <a href="https://github.com/matzxcss/python-logic-challenges-basics">
-  <img src="https://img.shields.io/badge/⬙_PYTHON_LOGIC_PROTOCOLS-ACTIVE-00FF00?style=for-the-badge&logo=github&logoColor=white" alt="Python Logic Repo"/>
+  <img src="https://img.shields.io/badge/⬙_PYTHON_LOGIC_PROTOCOLS-LIVE-00FF00?style=for-the-badge&logo=github&logoColor=white" alt="Python Logic Repo"/>
 </a>
 
-**Documentation of the path from Zero to Irish Engineer**  
-*Every algorithm solved. Every concept mastered. Every step documented.*
+**Real-time documentation: Brazil → Irish Engineer**  
+*Every solution engineered. Every concept dissected. Every step surgical.*
 
 </div>
 
@@ -101,20 +125,12 @@ class Architect:
 <div align="center">
 
 ```
-[████████████████░░░░] JOURNEY TO CORK: 80%
+[███████████░░░░░░░░░] JOURNEY TO CORK: BUILDING
 ```
 
-**CURRENT OPERATION:** Mastering Python's logical foundations  
-**NEXT MILESTONE:** Advanced algorithms & data structures  
+**CURRENT OPERATION:** Python logic foundations  
+**NEXT MILESTONE:** Algorithmic mastery  
 **FINAL DESTINATION:** Software Engineer @ Ireland
-
-<!-- STATS BLOCK - Uncomment quando quiser ativar
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=matzxcss&theme=gotham&hide_border=true" alt="GitHub Streak" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=matzxcss&show_icons=true&theme=gotham&hide_border=true&count_private=true" alt="Matheus Stats" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matzxcss&layout=compact&theme=gotham&hide_border=true" alt="Top Langs" />
--->
 
 </div>
 
@@ -129,8 +145,8 @@ def life_philosophy():
     principles = [
         "Logic is the anatomy of thought.",
         "Strategy is intelligence applied over time.",
-        "Every algorithm solved is a battle won.",
-        "The architect builds in silence, ships with impact."
+        "The architect builds in silence, ships with impact.",
+        "🔍 My code reveals more than words ever could."
     ]
     return principles
 ```
@@ -150,18 +166,10 @@ def life_philosophy():
 ```
 ╔═══════════════════════════════════════════════════════════╗
 ║  "The distance between Brazil and Ireland is measured     ║
-║   not in kilometers, but in lines of code."               ║
+║   not in kilometers, but in engineered solutions."        ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
 **⬙ MISSION STATUS: INEVITABLE ⬙**
 
-</div>
-
-<!--
-    Sistema operacional: Ativo
-    Destino: Cork, Ireland
-    Método: Python + Disciplina + Estratégia
-    Resultado: Garantido
--->
 </div>
