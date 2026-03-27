@@ -2,15 +2,15 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║                                                                                   ║
-║        ██╗      ██████╗  ██████╗ ██╗ ██████╗ █████╗ ██╗                    ║
-║        ██║     ██╔═══██╗██╔════╝ ██║██╔════╝██╔══██╗██║                   ║
-║        ██║     ██║   ██║██║  ███╗██║██║     ███████║██║                     ║
-║        ██║     ██║   ██║██║   ██║██║██║     ██╔══██║██║                     ║
-║        ███████╗╚██████╔╝╚██████╔╝██║╚██████╗██║  ██║███████╗             ║
-║        ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝              ║
-║                                                                                   ║
-║          B R U T A L I S M  ::  B A C K E N D  ::  C O R K                        ║
+║                                                                      ║
+║        ██╗      ██████╗  ██████╗ ██╗ ██████╗ █████╗ ██╗            ║
+║        ██║     ██╔═══██╗██╔════╝ ██║██╔════╝██╔══██╗██║            ║
+║        ██║     ██║   ██║██║  ███╗██║██║     ███████║██║            ║
+║        ██║     ██║   ██║██║   ██║██║██║     ██╔══██║██║            ║
+║        ███████╗╚██████╔╝╚██████╔╝██║╚██████╗██║  ██║███████╗       ║
+║        ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝      ║
+║                                                                      ║
+║          B R U T A L I S M  ::  B A C K E N D  ::  C O R K         ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -33,7 +33,7 @@ class Architect:
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matzxcss&bg_color=29274C&border_color=29274C&text_color=F0F0F0&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=F0F0F0&sideLabels=F0F0F0&dates=F0F0F0&hide_border=false)](https://github.com/matzxcss)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matzxcss&bg_color=0A0A0A&border_color=1E1E1E&text_color=888888&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=888888&sideLabels=888888&dates=888888&hide_border=false)](https://github.com/matzxcss)
 
 </div>
 
@@ -43,11 +43,11 @@ class Architect:
 
 ```
 BRAZIL ──────────────────────────────────────────────────────► IRELAND
-  │                                                                        ▲
-  │  [FATEC DSM]──►[Mate Academy]──►[Django Mastery]──►[MTU Cork]       │
-  │       │               │               │                                │
-  │    studying        building        shipping ──────────────────►    │
-  │                                                                        │
+  │                                                                 ▲
+  │  [FATEC DSM]──►[Mate Academy]──►[Django Mastery]──►[MTU Cork]  │
+  │       │               │               │                         │
+  │    studying        building        shipping ──────────────────► │
+  │                                                                 │
   └── origin ──────────────────────── destination ─────────────────┘
 ```
 
@@ -108,7 +108,6 @@ PHILOSOPHY STACK
 ```
 REPOSITORIES :: ACTIVE
 ```
-
 | REPO | STATUS | DESCRIPTION |
 |------|--------|-------------|
 | [python-logic-challenges](https://github.com/matzxcss/python-logic-challenges-basics) | `LIVE` | Raw logic. Every concept dissected. |
@@ -126,8 +125,8 @@ Every step surgical.
 
 <div align="center">
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=matzxcss&show_icons=true&bg_color=0A0A0A&title_color=00FF00&icon_color=00FF00&text_color=F0F0F0&border_color=1E1E1E&hide_border=false)](https://github.com/matzxcss)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matzxcss&layout=compact&bg_color=0A0A0A&title_color=00FF00&text_color=F0F0F0&border_color=1E1E1E&hide_border=false)](https://github.com/matzxcss)
+[![Stats](https://github-readme-stats.vercel.app/api?username=matzxcss&show_icons=true&bg_color=0A0A0A&title_color=00FF00&icon_color=00FF00&text_color=888888&border_color=1E1E1E&hide_border=false)](https://github.com/matzxcss)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matzxcss&layout=compact&bg_color=0A0A0A&title_color=00FF00&text_color=888888&border_color=1E1E1E&hide_border=false)](https://github.com/matzxcss)
 
 </div>
 
@@ -149,12 +148,12 @@ Every step surgical.
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║   "The distance between Brazil and Ireland is measured                   ║
-║    not in kilometers, but in engineered solutions."                      ║
-║                                                                          ║
-║                  ⬙  MISSION STATUS: INEVITABLE  ⬙                        ║
-║                                                                          ║
+║                                                               ║
+║   "The distance between Brazil and Ireland is measured        ║
+║    not in kilometers, but in engineered solutions."           ║
+║                                                               ║
+║                  ⬙  MISSION STATUS: INEVITABLE  ⬙            ║
+║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
