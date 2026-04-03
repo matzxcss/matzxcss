@@ -46,11 +46,11 @@ class Architect:
 
 ```
 BRAZIL ──────────────────────────────────────────────────────► IRELAND
-  │                                                                 ▲
-  │  [FATEC DSM]──►[Mate Academy]──►[Django Mastery]──►[MTU Cork]  │
-  │       │               │               │                         │
-  │    studying        building        shipping ──────────────────► │
-  │                                                                 │
+  │                                                                        ▲
+  │  [FATEC DSM]──►[Mate Academy]──►[Django Mastery]──►[MTU Cork]       │
+  │       │               │               │                                │
+  │    studying        building        shipping ──────────────────►    │
+  │                                                                        │
   └── origin ──────────────────────── destination ─────────────────┘
 ```
 
@@ -79,10 +79,10 @@ PHILOSOPHY STACK
 
 ```
 ╔════════════════════════════════════════════════════════════╗
-║  PHASE 1 :: Python Logic Foundations           [COMPLETE]  ║
-║  PHASE 2 :: Elite Stack (Django / HTMX)        [ACTIVE  ]  ║
-║  PHASE 3 :: European Market Positioning        [MAPPING ]  ║
-║  PHASE 4 :: MTU Cork :: Business Info Systems  [TARGET  ]  ║
+║  PHASE 1 :: Python Logic Foundations           [COMPLETE]             ║
+║  PHASE 2 :: Elite Stack (Django / HTMX)        [ACTIVE  ]             ║
+║  PHASE 3 :: European Market Positioning        [MAPPING ]             ║
+║  PHASE 4 :: MTU Cork :: Business Info Systems  [TARGET  ]             ║
 ╚════════════════════════════════════════════════════════════╝
 
   OVERALL PROGRESS  [████████░░░░░░░░░░░░]  40%  ARCHITECTING
@@ -94,13 +94,13 @@ PHILOSOPHY STACK
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  KERNEL      : python 3.12.x                                │
-│  IDE         : Zed :: Elderberry theme :: JetBrains Mono    │
-│  FOCUS       : Django ORM internals / HTMX SSR              │
-│  PROCESS     : MTU Cork syllabus analysis [background]      │
-│  AUDIO       : Trap Underground / Dark Jazz                  │
-│  LAST_BUILD  : Portfolio :: FastAPI + HTMX [99 Lighthouse]  │
-│  NEXT_BUILD  : [CLASSIFIED]                                 │
+│  KERNEL      : python 3.12.x                                           │
+│  IDE         : Zed :: Elderberry theme :: JetBrains Mono               │
+│  FOCUS       : Django ORM internals / HTMX SSR                         │
+│  PROCESS     : MTU Cork syllabus analysis [background]                 │
+│  AUDIO       : Trap Underground / Dark Jazz                            │
+│  LAST_BUILD  : Portfolio :: FastAPI + HTMX [99 Lighthouse]             │
+│  NEXT_BUILD  : [CLASSIFIED]                                            │
 └─────────────────────────────────────────────────────────────┘
 ```
 
