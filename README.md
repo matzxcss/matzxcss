@@ -148,7 +148,7 @@ Every step surgical.
   <img src="https://img.shields.io/badge/⬙_CONNECT_PROTOCOL-ACTIVE-FFB000?style=for-the-badge&logoColor=0A0A0A&labelColor=0A0A0A" alt="Monocard"/>
 </a>
 
-<a href="https://matheuslacerdaportifolio.up.railway.app/">
+<a href="https://matheuslacerda.dev/">
   <img src="https://img.shields.io/badge/⬙_PORTFOLIO-LIVE-FFB000?style=for-the-badge&logoColor=0A0A0A&labelColor=0A0A0A" alt="Portfolio"/>
 </a>
 
