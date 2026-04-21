@@ -115,8 +115,8 @@ REPOSITORIES :: ACTIVE
 | REPO | STATUS | STACK | DESCRIPTION |
 |------|--------|-------|-------------|
 | [python-logic-challenges](https://github.com/matzxcss/python-logic-challenges-basics) | `LIVE` | Python | Raw logic. Every concept dissected. |
-| [matzxcss-portfolio](https://github.com/matzxcss) | `LIVE` | FastAPI · HTMX · Tailwind | Logical Brutalism in production. 99 Lighthouse. |
-| minha-feira | `SHIPPED` | React · Supabase | AgriTech platform :: rural producers marketplace |
+| [matzxcss-portfolio](https://github.com/matzxcss) | `LIVE` | FastAPI · HTMX · Tailwind | Portifolio of master . 99/100 Lighthouse. |
+| [logical-brutalism](https://github.com/matzxcss/logical-brutalism) | `SHIPPED` | markdown | Complete Design System :: for high density environment |
 
 ```
 Every solution engineered.
