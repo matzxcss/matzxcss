@@ -14,7 +14,7 @@
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=matzxcss&style=flat-square&color=FFB000&label=PROFILE+VIEWS&labelColor=0A0A0A)
+![Profile Views](https://komarev.com/ghpvc/?username=matheuslacerda-dev&style=flat-square&color=FFB000&label=PROFILE+VIEWS&labelColor=0A0A0A)
 
 </div>
 
@@ -114,9 +114,9 @@ REPOSITORIES :: ACTIVE
 
 | REPO | STATUS | STACK | DESCRIPTION |
 |------|--------|-------|-------------|
-| [python-logic-challenges](https://github.com/matzxcss/python-logic-challenges-basics) | `LIVE` | Python | Raw logic. Every concept dissected. |
-| [matzxcss-portfolio](https://github.com/matzxcss) | `LIVE` | FastAPI · HTMX · Tailwind | Portifolio of master . 99/100 Lighthouse. |
-| [logical-brutalism](https://github.com/matzxcss/logical-brutalism) | `SHIPPED` | markdown | Complete Design System :: for high density environment |
+| [python-logic-challenges](https://github.com/matheuslacerda-dev/python-logic-challenges-basics) | `LIVE` | Python | Raw logic. Every concept dissected. |
+| [matheus-portfolio](https://matheuslacerda.dev) | `LIVE` | FastAPI · HTMX · Tailwind | Portifolio of master . 99/100 Lighthouse. |
+| [logical-brutalism](https://github.com/matheuslacerda-dev/logical-brutalism) | `SHIPPED` | markdown | Complete Design System :: for high density environment |
 
 ```
 Every solution engineered.
@@ -130,11 +130,11 @@ Every step surgical.
 
 <div align="center">
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=matzxcss&show_icons=true&bg_color=0A0A0A&title_color=FFB000&icon_color=FFB000&text_color=888888&border_color=1E1E1E&hide_border=false&rank_icon=github)](https://github.com/matzxcss)
+[![Stats](https://github-readme-stats.vercel.app/api?username=matheuslacerda-dev&show_icons=true&bg_color=0A0A0A&title_color=FFB000&icon_color=FFB000&text_color=888888&border_color=1E1E1E&hide_border=false&rank_icon=github)](https://github.com/matzxcss)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matzxcss&layout=compact&bg_color=0A0A0A&title_color=FFB000&text_color=888888&border_color=1E1E1E&hide_border=false)](https://github.com/matzxcss)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslacerda-dev&layout=compact&bg_color=0A0A0A&title_color=FFB000&text_color=888888&border_color=1E1E1E&hide_border=false)](https://github.com/matzxcss)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=matzxcss&bg_color=0A0A0A&color=FFB000&line=FFB000&point=F0F0F0&area=true&area_color=FFB000&hide_border=false&border_color=1E1E1E)](https://github.com/matzxcss)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=matheuslacerda-dev&bg_color=0A0A0A&color=FFB000&line=FFB000&point=F0F0F0&area=true&area_color=FFB000&hide_border=false&border_color=1E1E1E)](https://github.com/matzxcss)
 
 </div>
 
