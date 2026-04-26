@@ -28,7 +28,7 @@ class Architect:
     origin         = "Brazil :: Ilha Solteira"
     destination    = "Cork, Ireland :: MTU"
     philosophy     = "Logic is the anatomy of thought."
-    design_system  = "Logical Brutalism v1.1 :: github.com/matzxcss"
+    design_system  = "Logical Brutalism v1.2 :: github.com/matheuslacerda-dev"
     status         = "EXECUTING_MISSION"
 ```
 
@@ -36,7 +36,7 @@ class Architect:
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matzxcss&bg_color=0A0A0A&border_color=1E1E1E&text_color=888888&ring=FFB000&fire=FFB000&currStreakNum=FFB000&sideNums=888888&sideLabels=888888&dates=444444&hide_border=false)](https://github.com/matzxcss)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matheuslacerda-dev&bg_color=0A0A0A&border_color=1E1E1E&text_color=888888&ring=FFB000&fire=FFB000&currStreakNum=FFB000&sideNums=888888&sideLabels=888888&dates=444444&hide_border=false)](https://github.com/matheuslacerda-dev)
 
 </div>
 
@@ -130,11 +130,11 @@ Every step surgical.
 
 <div align="center">
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=matheuslacerda-dev&show_icons=true&bg_color=0A0A0A&title_color=FFB000&icon_color=FFB000&text_color=888888&border_color=1E1E1E&hide_border=false&rank_icon=github)](https://github.com/matzxcss)
+[![Stats](https://github-readme-stats.vercel.app/api?username=matheuslacerda-dev&show_icons=true&bg_color=0A0A0A&title_color=FFB000&icon_color=FFB000&text_color=888888&border_color=1E1E1E&hide_border=false&rank_icon=github)](https://github.com/matheuslacerda-dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslacerda-dev&layout=compact&bg_color=0A0A0A&title_color=FFB000&text_color=888888&border_color=1E1E1E&hide_border=false)](https://github.com/matzxcss)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslacerda-dev&layout=compact&bg_color=0A0A0A&title_color=FFB000&text_color=888888&border_color=1E1E1E&hide_border=false)](https://github.com/matheuslacerda-dev)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=matheuslacerda-dev&bg_color=0A0A0A&color=FFB000&line=FFB000&point=F0F0F0&area=true&area_color=FFB000&hide_border=false&border_color=1E1E1E)](https://github.com/matzxcss)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=matheuslacerda-dev&bg_color=0A0A0A&color=FFB000&line=FFB000&point=F0F0F0&area=true&area_color=FFB000&hide_border=false&border_color=1E1E1E)](https://github.com/matheuslacerda-dev)
 
 </div>
 
